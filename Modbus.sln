@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modbus", "Modbus\Modbus.csproj", "{E50C5417-14AF-434B-9836-EF22379FF4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modbus.Processor", "Modbus.Processor\Modbus.Processor.csproj", "{FFB82E82-1A49-45EE-B980-E18CF035C25C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modbus.Common", "Modbus.Common\Modbus.Common.csproj", "{C985F8CC-5CAE-4756-85EB-DA21F28808BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50C5417-14AF-434B-9836-EF22379FF4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50C5417-14AF-434B-9836-EF22379FF4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50C5417-14AF-434B-9836-EF22379FF4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50C5417-14AF-434B-9836-EF22379FF4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB82E82-1A49-45EE-B980-E18CF035C25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB82E82-1A49-45EE-B980-E18CF035C25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB82E82-1A49-45EE-B980-E18CF035C25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB82E82-1A49-45EE-B980-E18CF035C25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C985F8CC-5CAE-4756-85EB-DA21F28808BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C985F8CC-5CAE-4756-85EB-DA21F28808BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C985F8CC-5CAE-4756-85EB-DA21F28808BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C985F8CC-5CAE-4756-85EB-DA21F28808BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
